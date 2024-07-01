@@ -33,12 +33,12 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
    </head>
    <body>
-      <!-- header section start -->
+   
       <div class="header_section">
          <div class="header_main">
             <div class="mobile_menu">
                <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                  <div class="logo_mobile"><a href="index.html"><img src="images/logo.png"></a></div>
+                  <!-- <div class="logo_mobile"><a href="index.html"><img src="images/logo.png"></a></div> -->
                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                   </button>
@@ -50,12 +50,8 @@
                         <li class="nav-item">
                            <a class="nav-link" href="about.html">About</a>
                         </li>
-                        <li class="nav-item">
-                           <a class="nav-link" href="services.html">Services</a>
-                        </li>
-                        <li class="nav-item">
-                           <a class="nav-link " href="blog.html">Blog</a>
-                        </li>
+                        
+                     
                         <li class="nav-item">
                            <a class="nav-link " href="contact.html">Contact</a>
                         </li>
@@ -64,7 +60,6 @@
                </nav>
             </div>
             <div class="container-fluid">
-               <div class="logo"><a href="index.html"><img src="images/logo.png"></a></div>
                <div class="menu_main">
                   <ul>
                      <li class="active"><a href="index.html">Home</a></li>
@@ -76,7 +71,7 @@
                </div>
             </div>
          </div>
-         <!-- banner section start -->
+
          <div class="banner_section layout_padding">
             <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
                <div class="carousel-inner">
@@ -104,10 +99,9 @@
                </div>
             </div>
          </div>
-         <!-- banner section end -->
+
       </div>
-      <!-- header section end -->
-      <!-- services section start -->
+
       <div class="services_section layout_padding">
          <div class="container">
             <h1 class="services_taital">Services </h1>
@@ -130,8 +124,7 @@
             </div>
          </div>
       </div>
-      <!-- services section end -->
-      <!-- about section start -->
+
       <div class="about_section layout_padding">
          <div class="container-fluid">
             <div class="row">
@@ -148,8 +141,7 @@
             </div>
          </div>
       </div>
-      <!-- about section end -->
-      <!-- blog section start -->
+
       <div class="blog_section layout_padding">
          <div class="container">
             <h1 class="blog_taital">See Our  Video</h1>
@@ -159,8 +151,7 @@
             </div>
          </div>
       </div>
-      <!-- blog section end -->
-      <!-- client section start -->
+
       <div class="client_section layout_padding">
          <div class="container">
             <h1 class="client_taital">Testimonial</h1>
@@ -228,8 +219,7 @@
             </div>
          </div>
       </div>
-      <!-- client section start -->
-      <!-- choose section start -->
+
       <div class="choose_section layout_padding">
          <div class="container">
             <h1 class="choose_taital">Why Choose Us</h1>
@@ -241,8 +231,7 @@
             </div>
          </div>
       </div>
-      <!-- choose section end -->
-      <!-- footer section start -->
+
       <div class="footer_section layout_padding">
          <div class="container">
             <div class="input_btn_main">
@@ -265,24 +254,22 @@
             </div>
          </div>
       </div>
-      <!-- footer section end -->
-      <!-- copyright section start -->
+
       <div class="copyright_section">
          <div class="container">
             <p class="copyright_text">2020 All Rights Reserved. Design by <a href="https://html.design">Free html  Templates</a></p>
          </div>
       </div>
-      <!-- copyright section end -->
-      <!-- Javascript files-->
+
       <script src="js/jquery.min.js"></script>
       <script src="js/popper.min.js"></script>
       <script src="js/bootstrap.bundle.min.js"></script>
       <script src="js/jquery-3.0.0.min.js"></script>
       <script src="js/plugin.js"></script>
-      <!-- sidebar -->
+ 
       <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
       <script src="js/custom.js"></script>
-      <!-- javascript --> 
+
       <script src="js/owl.carousel.js"></script>
       <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>    
    </body>
